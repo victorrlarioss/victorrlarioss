@@ -58,15 +58,11 @@ I combine technical precision with analytical thinking to transform complex oper
 
 ---
 
-## 📈 GitHub Activity
+## 📂 Currently Working On
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=victorrlarioss&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlarioss&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
-
-</div>
+- Improving SQL query optimization techniques  
+- Building end-to-end data analysis projects  
+- Strengthening business storytelling with data
 
 ---
 
