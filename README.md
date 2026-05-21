@@ -42,7 +42,6 @@ I am a **Data Analyst** transitioning from engineering into data-driven business
 ### 📌 Workforce Optimization & Rotation Modeling
 - Built a predictive model to analyze and mitigate employee turnover.
 - Developed data pipelines using **Python (Pandas/NumPy)** and structural insights to optimize human capital allocation.
-- [View Repository](https://github.com/tu-usuario/hr-workforce-optimization) *(Opcional: añade tu enlace real aquí)*
 
 ### 📌 Infrastructure Cost-Benefit Analysis & Budgeting
 - Socioeconomic and technical evaluation of infrastructure and road modernization projects.
