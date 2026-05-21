@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Victor Hugo García Larios</h1>
 
 <div align="center">
@@ -7,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  Junior Data Analyst • Civil & Forestry Engineering Background • Operational Insights Specialist
+  Data Analyst • Civil & Forestry Engineering Background • Operational Insights Specialist
 </h3>
 
 <p align="center">
@@ -21,50 +19,51 @@
 
 ## 🚀 About Me
 
-I am a **Junior Data Analyst** transitioning from engineering into data-driven business strategy.  
-
-I combine technical precision with analytical thinking to transform complex operational metrics into actionable business insights.
+I am a **Data Analyst** transitioning from engineering into data-driven business strategy. I combine technical precision with analytical thinking to transform complex operational metrics, financial costs, and spatial data into actionable business insights.
 
 🎓 Graduate of the TripleTen Data Analytics Bootcamp  
-📊 Strong background in operational data, ERP systems, and geospatial analysis  
-🌎 Interested in Infrastructure, Environmental Analytics, and ESG data  
+📊 Strong background in operational data, ERP systems, budgeting, and geospatial analysis  
+🌎 Interested in FinTech, Business Intelligence, Infrastructure, and Environmental/ESG Analytics  
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-| Análisis y Programación | Bibliotecas y Herramientas | Visualización y SIG |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> | <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> | <img src="https://img.shields.io/badge/VBA-Macros-green?style=for-the-badge" /> |
+| Analytics & Programming | Libraries & Frameworks | Visualization & BI | ERP & Industry Tools |
+| :--- | :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> | <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" /> | <img src="https://img.shields.io/badge/OPUS_/_ERP-0052CC?style=for-the-badge&logo=databricks&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" /> | <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> | <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> | <img src="https://img.shields.io/badge/VBA_/_Macros-217346?style=for-the-badge" /> |
 
 ---
 
-## 📊 Projects
+## 📊 Highlighted Projects
 
-### 📌 Sales Exploratory Data Analysis
-- Identified consumption patterns and customer segmentation.
-- Built SQL queries and Python workflows to optimize revenue insights.
-- Generated strategic business recommendations.
+### 📌 Workforce Optimization & Rotation Modeling
+- Built a predictive model to analyze and mitigate employee turnover.
+- Developed data pipelines using **Python (Pandas/NumPy)** and structural insights to optimize human capital allocation.
+- [View Repository](https://github.com/tu-usuario/hr-workforce-optimization) *(Opcional: añade tu enlace real aquí)*
 
-### 📌 Infrastructure Cost-Benefit Analysis
-- Socioeconomic and technical evaluation of road modernization projects.
-- Applied SHCP evaluation methodology.
-- Tools: ArcMap, Excel Macros, Statistical Modeling.
+### 📌 Infrastructure Cost-Benefit Analysis & Budgeting
+- Socioeconomic and technical evaluation of infrastructure and road modernization projects.
+- Processed complex unit costs, budgeting control, and financial tracking via **OPUS / ERP tools** and Excel Macros.
+- Applied SHCP evaluation methodologies combined with spatial analysis (**ArcMap/GIS**).
+
+### 📌 Telecom & Commercial Exploratory Data Analysis (EDA)
+- Conducted statistical analysis on large telecommunications datasets (500+ operators) to identify consumption patterns.
+- Built optimized **SQL** queries and interactive dashboards to translate raw data into business revenue recommendations.
 
 ### 📌 Biomass & Carbon Capture Estimation
-- International volunteer project (Sierra Gorda IAP).
-- Quantified ecosystem services under U.S. Forest Service standards.
-- Environmental impact modeling and reporting.
+- International project (Sierra Gorda IAP) quantifying ecosystem services under U.S. Forest Service standards.
+- Designed environmental impact models and geospatial reporting structures.
 
 ---
 
 ## 📂 Currently Working On
 
-- Improving SQL query optimization techniques  
-- Building end-to-end data analysis projects  
-- Strengthening business storytelling with data
+- 📈 Developing interactive end-to-end dashboards in **Power BI** and **Tableau**.
+- 🛠️ Advanced SQL query optimization and database design.
+- 🎯 Strengthening business storytelling to bridge technical metrics with C-level decision-making.
 
 ---
 
