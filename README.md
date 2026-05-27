@@ -137,6 +137,7 @@ languages: ["Spanish", "English"],
 <details>
 <summary>📈 Currently Working On</summary>
 <br>
+<div align="left">
 <ul>
   <li>Developing interactive end-to-end dashboards in Power BI and Tableau.</li>
   <li>Advanced SQL optimization and database design.</li>
@@ -145,14 +146,53 @@ languages: ["Spanish", "English"],
 </ul>
 </details>
 <details>
-<summary>📊 Featured Dashboard</summary>
+<summary>📊 Featured Projects: BI Dashboards & GIS Web Apps</summary>
 <br>
+
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80" alt="Featured Dashboard Preview" width="80%"/>
+
+  ### 📈 Comprehensive Operational Performance & Efficiency Analysis in Telecom
+  
+  <a href="https://public.tableau.com/views/AnlisisIntegraldeDesempeoOperativoyEficienciaenTelecomunicacionesvhgl/AnlisisIntegraldeDesempeoyOperacindeTelecomunicaciones?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6cf82d8e-9519-43a5-bbcf-7b3a868ebb71" alt="Comprehensive Operational Performance & Efficiency Analysis in Telecom" width="100%" />
+  </a>
+  
+  <br>
+  <p><em>💡 Click on the image above to interact with the live Dashboard via Tableau Public.</em></p>
+  
+  <div align="left" style="width: 90%;">
+    <br>
+    <strong>Key Insights & Technical Delivery:</strong>
+    <ul>
+      <li><strong>Operational Intelligence:</strong> Modeled and visualized infrastructure KPIs, resource allocation efficiency, and critical failure analytics.</li>
+      <li><strong>Data Pipeline:</strong> Processed and cleansed structured datasets using SQL and Python prior to designing the layered dashboard architecture in Tableau.</li>
+    </ul>
+  </div>
+
   <br><br>
-  <p><em>Interactive financial cost tracking and operational metrics model. Built with advanced data pipelines and business intelligence standards.</em></p>
+  ---
+  <br>
+### 🗺️ Urban Risk & Infrastructure Analysis System (GIS Web App)
+  
+  <a href="https://analisis-riesgo-sjr.onrender.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/eb703174-95a4-47d2-a338-7401a2619e8f" alt="Urban Risk & Infrastructure Analysis System" width="100%" />
+  </a>
+  
+  <br>
+  <p><em>💡 Click on the image above to launch the interactive geospatial web application on Render.</em></p>
+  <div align="left" style="width: 90%;">
+    <br>
+    <strong>Key Insights & Technical Delivery:</strong>
+    <ul>
+      <li><strong>Geospatial Intelligence (GIS):</strong> Implemented spatial analysis algorithms for evaluating and mitigating structural and environmental risks within the region.</li>
+      <li><strong>Web Deployment:</strong> Structured and optimized web cartographic interactivity, deploying an independent and responsive GIS application.</li>
+    </ul>
+  </div>
+
 </div>
+
 </details>
+<br>
 
 </details>
 <br>
