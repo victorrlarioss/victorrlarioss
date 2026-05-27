@@ -14,7 +14,10 @@
 
 <details>
 <summary><kbd>✨ OPEN PROFILE</kbd></summary>
-
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=700&lines=Hi%2C%20I%20am%20Victor;Data%20Analyst%20%7C%20GIS%20Consultant;Operational%20Insights%20%26%20Business%20Intelligence;Civil%20%26%20Forestry%20Engineering%20Background" alt="Typing SVG" />
+</a>
 <br>
 
 <div align="center">
@@ -31,11 +34,9 @@
 <br>
 <div align="left">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=700&lines=Hi%2C%20I%20am%20Victor%20Hugo;Data%20Analyst%20%7C%20GIS%20Consultant;Operational%20Insights%20%26%20Business%20Intelligence;Civil%20%26%20Forestry%20Engineering%20Background" alt="Typing SVG" />
-</a>
 
-</div>
+
+
 
 ```js
 /**
@@ -67,66 +68,65 @@ languages: ["Spanish", "English"],
   ]
 };
 ```
+
+</details>
 <details>
 <summary>🛠️ Tools & Tech Stack</summary>
 <br>
-<div align="center">
-<p style="display: inline-block;">
-<kbd><kbd>Analytics & Programming</kbd>
-<br><br>
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
-<img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
+<div align="center">
+
+<kbd>
+  <br> <b>Analytics & Programming</b> <br><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
+  <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
+  <br><br>
 </kbd>
+<kbd>
+  <br> <b>Libraries & Frameworks</b> <br><br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25px"/>
+  <br><br>
+</kbd>
+<kbd>
+  <br> <b>Visualization & BI</b> <br><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" height="25px"/>
+  <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25px"/>
+  <br><br>
+</kbd>
+<kbd>
+  <br> <b>Enterprise ERPs</b> <br><br>
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Business_Central-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/VBA_/_Macros-217346?style=for-the-badge" height="25px"/>
+  <br><br>
+</kbd>
+<kbd>
+  <br> <b>Engineering & GIS</b> <br><br>
+  <img src="https://img.shields.io/badge/AutoCAD-E23123?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/ArcMap_/_GIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/OPUS-0052CC?style=for-the-badge&logo=databricks&logoColor=white" height="25px"/>
+  <br><br>
+</kbd>
+
 </div>
+
 </details>
 
-
-<summary>🛠️ Tools & Tech Stack</summary>
-<br>
-<div align="center">
-<p style="display: inline-block;">
-<kbd><kbd>Analytics & Programming</kbd>
-<br><br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
-<img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
-</kbd>
-<kbd><kbd>Libraries & Frameworks</kbd>
-<br><br>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25px"/>
-</kbd><br><br>
-
-<kbd><kbd>Visualization & BI</kbd>
-<br><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" height="25px"/>
-<img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25px"/>
-</kbd>
-<kbd><kbd>ERP & Industry Tools</kbd>
-<br><br>
-<img src="https://img.shields.io/badge/OPUS_/_ERP-0052CC?style=for-the-badge&logo=databricks&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/VBA_/_Macros-217346?style=for-the-badge" height="25px"/>
-</kbd>
-</p>
-</div>
-</details>
 <details>
 <summary>📊 GitHub Stats</summary>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorrlarioss&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
-<br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorrlarioss&theme=vision-friendly-dark" alt="GitHub Streak"/>
 </div>
 </details>
 <details>
 <summary>📌 Highlighted Projects</summary>
 <br>
+<div align="left">
 <ul>
   <li><strong>🚀 Workforce Optimization & Rotation Modeling:</strong> Built predictive models to analyze and mitigate employee turnover. Developed data pipelines using Python (Pandas/NumPy). Improved operational visibility and workforce allocation efficiency.</li>
   <li><strong>🏗️ Infrastructure Cost-Benefit Analysis & Budgeting:</strong> Socioeconomic and technical evaluation of infrastructure modernization projects. Processed complex unit costs via OPUS / ERP and Excel Macros. Applied SHCP methodologies with ArcGIS spatial analysis.</li>
