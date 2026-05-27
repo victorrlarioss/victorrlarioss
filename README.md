@@ -18,7 +18,7 @@
 </div>
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C%20I%20am%20Victor;Data%20Analyst%20%7C%20GIS%20Consultant;Operational%20Insights%20%26%20Business%20Intelligence;Civil%20%26%20Forestry%20Engineering%20Background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Victor;Data%20Analyst%20%7C%20GIS%20Consultant;Operational%20Insights%20%26%20Business%20Intelligence;Civil%20%26%20Forestry%20Engineering%20Background" alt="Typing SVG" />
 </a>
 <br>
 
@@ -175,7 +175,7 @@ I am a **Data Analyst** with a strong practical background in **agronomy, constr
   <br><br>
   ---
   <br>
-### 🗺️ Urban Risk & Infrastructure Analysis System (GIS Web App)
+  ### 🗺️ Urban Risk & Infrastructure Analysis System (GIS Web App)
   
   <a href="https://analisis-riesgo-sjr.onrender.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/eb703174-95a4-47d2-a338-7401a2619e8f" alt="Urban Risk & Infrastructure Analysis System" width="100%" />
