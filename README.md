@@ -11,7 +11,7 @@
 
 
 <details>
-<summary><kbd>✨ OPEN PROFILE</kbd></summary>
+<summary><kbd> OPEN PROFILE</kbd></summary>
 <br>
 <div align="center">
   <img src="https://github.com/victorrlarioss.png" alt="Víctor Hugo García Larios" width="150" style="border-radius: 50%; border: 3px solid #11caa0;" />
