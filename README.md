@@ -15,8 +15,12 @@
 <details>
 <summary><kbd>✨ OPEN PROFILE</kbd></summary>
 <br>
+<div align="center">
+  <img src="https://github.com/victorrlarioss.png" alt="Víctor Hugo García Larios" width="150" style="border-radius: 50%; border: 3px solid #11caa0;" />
+</div>
+<br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=700&lines=Hi%2C%20I%20am%20Victor;Data%20Analyst%20%7C%20GIS%20Consultant;Operational%20Insights%20%26%20Business%20Intelligence;Civil%20%26%20Forestry%20Engineering%20Background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C%20I%20am%20Victor;Data%20Analyst%20%7C%20GIS%20Consultant;Operational%20Insights%20%26%20Business%20Intelligence;Civil%20%26%20Forestry%20Engineering%20Background" alt="Typing SVG" />
 </a>
 <br>
 
