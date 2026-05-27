@@ -121,12 +121,29 @@ languages: ["Spanish", "English"],
 </details>
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>📊 GitHub Stats & Featured Code</summary>
 <br>
+
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorrlarioss&theme=vision-friendly-dark" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorrlarioss&theme=vision-friendly-dark" alt="GitHub Streak"/>
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/victorrlarioss/victorrlarioss/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="100%"/>
+  
+  <br><br>
+  
+  ### 🛠️ Top Repository Showcase
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorrlarioss&repo=analisis-riesgo-sjr&theme=vision-friendly-dark" alt="Risk Analysis Repo"/>
+
 </div>
+
 </details>
+
+
 <details>
 <summary>📌 Highlighted Projects</summary>
 <br>
