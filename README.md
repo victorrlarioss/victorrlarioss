@@ -1,8 +1,5 @@
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/victorrlarioss/victorrlarioss/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="100%"/>
-</p>
 
 <div align="center">
 	
@@ -117,6 +114,10 @@ I am a **Data Analyst** with a strong practical background in **agronomy, constr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorrlarioss&theme=vision-friendly-dark" alt="GitHub Streak"/>
   
   <br><br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/victorrlarioss/victorrlarioss/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="100%"/>
+</p>
+
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorrlarioss&theme=github-dark&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Victor's Activity Graph" width="100%" />
 </div>
