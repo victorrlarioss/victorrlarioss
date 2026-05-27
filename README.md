@@ -29,49 +29,39 @@
 ---
 
 
-
-<details> 
-
-<summary>💻 About Me</summary>
+<details>
+<summary>👤 About Me</summary>
 <br>
+
+
+
+
 <div align="left">
 
+### 🚀 Bridging Field Operations & Data Intelligence
 
+I am a **Data Analyst** with a strong practical background in **agronomy, construction, and forestry**. I combine technical precision with analytical thinking to transform complex operational metrics, infrastructure data, financial costs, and geospatial layers into actionable business strategy and environmental insights.
 
+#### 🎯 Focus Areas:
+* **Geospatial Analysis (GIS):** Urban risk mapping, infrastructure modeling, and environmental analytics.
+* **Business Intelligence:** Designing scalable pipelines (SQL & Python) and dynamic dashboard architectures (Tableau).
+* **Operational Performance:** Tracking metrics, budgeting, and resource allocation to optimize complex projects.
 
+#### 🌎 Core Interests:
+* FinTech | Business Intelligence | Infrastructure & Logistics | Environmental & ESG Analytics
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} name - Victor Hugo.
- * @param {string} location - Querétaro, Mexico.
- * @param {string[]} languages - Spanish, English.
- * @param {string} jobTitle - Data Analyst & GIS Consultant.
-* @param {string} specialization - Transforming operational metrics, financial costs, and spatial data into actionable business insights.
- * @param {string[]} interests - FinTech, Business Intelligence, Infrastructure, ESG Analytics.
- * @param {string} education - Data Analytics (TripleTen) | Civil & Forestry Engineering background.
- *
- * @returns {Object} Victor.
- */
-const victor = {
-  name: "Victor Hugo",
-  location: "Querétaro, Mexico",
-languages: ["Spanish", "English"],
-  jobTitle: "Data Analyst & GIS Consultant",
-  specialization:
-    "Operational analytics, financial analysis, GIS and business intelligence",
-  interests: [
-    "FinTech",
-    "Business Intelligence",
-    "Infrastructure",
-    "Environmental Analytics"
-  ]
-};
-```
+#### 🧠 Languages & Tech Skills:
+* 🗣️ **Spoken:** Native Spanish | Professional English
+* 💻 **Core Programming:** Python | SQL | JavaScript
+* 📊 **Automation & Scripts:** Visual Basic (VBA) | Macro Development
+* 🗄️ **Database Systems:** PostgreSQL | SQLite
+
+</div>
 
 </details>
+
+
+
 <details>
 <summary>🛠️ Tools & Tech Stack</summary>
 <br>
@@ -220,8 +210,6 @@ languages: ["Spanish", "English"],
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorgarlarios)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrlarioss@gmail.com)
 
-</div>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=victorrlarioss&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=victorrlarioss&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" height="30" />
 </p>
