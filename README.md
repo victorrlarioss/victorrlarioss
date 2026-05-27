@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victorrlarioss&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+    <img src="https://raw.githubusercontent.com/victorrlarioss/victorrlarioss/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="100%"/>
 </p>
 
 <div align="center">
@@ -129,16 +127,10 @@ languages: ["Spanish", "English"],
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorrlarioss&theme=vision-friendly-dark" alt="GitHub Streak"/>
   
   <br><br>
-  
-  <img src="https://raw.githubusercontent.com/victorrlarioss/victorrlarioss/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="100%"/>
-  
-  <br><br>
-  
-  ### 🛠️ Top Repository Showcase
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorrlarioss&repo=analisis-riesgo-sjr&theme=vision-friendly-dark" alt="Risk Analysis Repo"/>
-
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorrlarioss&theme=github-dark&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Victor's Activity Graph" width="100%" />
+</div>
+ 
 </div>
 
 </details>
@@ -229,3 +221,7 @@ languages: ["Spanish", "English"],
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrlarioss@gmail.com)
 
 </div>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=victorrlarioss&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</p>
